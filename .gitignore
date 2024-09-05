@@ -3,7 +3,6 @@ node_modules
 .settings
 npm-debug.log
 .vscode
-dist
 build
 GopherGfx
 gophergfx
