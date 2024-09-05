@@ -1,12 +1,12 @@
 
 ## GopherGfx Key Links
-* [GopherGfx Documentation](https://illusioneering.github.io/GopherGfx/)
-* [GopherGfx Source Code](https://github.com/illusioneering/GopherGfx/tree/main)
+* [GopherGfx Documentation](https://csci-4611-fall-2024.github.io/GopherGfx/)
+* [GopherGfx Source Code](https://github.com/CSCI-4611-Fall-2024/GopherGfx)
 * [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
 
 ## To create a new GopherGfx app from a template
-* Go to the [GopherGfx-AppTemplate repository](https://github.com/CSCI-4611-Fall-2023/GopherGfx-AppTemplate/tree/main)
+* Go to the [GopherGfx-AppTemplate repository](https://github.com/CSCI-4611-Fall-2024/GopherGfx-AppTemplate)
 * Click the green *Use this template* button.
 * Select *Create a new repository*
 * Set repository options on the next page..
